@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Munchybanana
+- 👋 Hi, I’m @mason-sp
 - 👀 I’m interested in ... Back End Web Development
 - 🌱 I’m currently learning ... HTML & CSS
 - 💞️ I’m looking to collaborate on ...
